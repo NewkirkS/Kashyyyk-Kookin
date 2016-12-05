@@ -1,0 +1,4 @@
+name = Custom Follow
+description = Add additional social media options
+package = Custom
+core = 7.x
