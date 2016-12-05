@@ -1,0 +1,4 @@
+name = Simple Contact
+description = Hide subject line and send yourself copy checkbox
+package = Custom
+core = 7.x
